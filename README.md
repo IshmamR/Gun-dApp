@@ -12,4 +12,5 @@ npm run dev
 ```
 
 Preview:
+
 ![Preview](https://github.com/IshmamR/Gun-dApp/blob/main/assets/preview.png?raw=true)
